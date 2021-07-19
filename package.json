@@ -2,7 +2,7 @@
   "name": "variosejemplos-9",
   "version": "0.1.0",
   "private": true,
-  "homepages":"http://bmsebastian2.github.io/APITareas",
+  "homepage":"http://bmsebastian2.github.io/APITareas",
   "dependencies": {
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
